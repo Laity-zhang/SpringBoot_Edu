@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * @Program : edu_parent
  * @ClassName : MyMetaObjectHandler
- * @Description : TOOD
+ * @Description : 数据库数据的自动创建时间、自动创建更改时间
  * @Author : zhangzhaonian
  * @Date: 2020-12-01 15:34
  */
